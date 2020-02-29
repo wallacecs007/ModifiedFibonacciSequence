@@ -31,3 +31,9 @@ Modified Fibonacci 	0	1	1	2	3	5	8	13	21	  8     3    11   14    25   ...     ...
 
 Implement this function/method and submit a link to your code (answer) below.
 You can share via a link to your code using free websites like https://gist.github.com/ or http://ideone.com.
+
+
+
+
+Resources I used:
+http://mathworld.wolfram.com/FibonacciNumber.html
